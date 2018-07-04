@@ -29,3 +29,5 @@ end
 def using_insert(array, i)
   array.insert(4, i)
 end
+
+def 
